@@ -1,2 +1,3 @@
 # Exercicios Java
-Exercicios e projetos desenvolvidos durante meus estudos em Java Básico e Programação Orientada a Objetos (POO).
+O objetivo deste repositório é acompanhar meu progresso no aprendizado da linguagem Java. 
+
