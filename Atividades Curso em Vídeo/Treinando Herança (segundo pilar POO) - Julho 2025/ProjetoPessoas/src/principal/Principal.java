@@ -1,13 +1,16 @@
 /*
- * Atividade realizada durante o curso de Java POO do Curso em Vídeo.
- * O objetivo desta atividade é introduzir os conceitos sobre HERANÇA abordados
- * nas aulas teóricas sobre Herança - segundo pilar da Programação Orientada a Objetos.
+ * Atividade desenvolvida durante o curso de Java POO, do Curso em Vídeo.
  *
- * No código principal irei instanciar objetos e determinar suas características para treinar os conceitos.
+ * O objetivo desta atividade é colocar em prática os conceitos de HERANÇA abordados nas aulas teóricas,
+ * com foco no segundo pilar da Programação Orientada a Objetos.
  *
- * O objetivo é aprender a colocar herança em prática, usando técnicas de Herança de Implementação
- * e Herança para Diferença.
+ * No código principal, serão instanciados objetos e atribuídas suas características,
+ * como forma de treinar a aplicação correta da herança em Java.
+ *
+ * A proposta inclui o uso de técnicas como Herança de Implementação e Herança para Diferença,
+ * com o intuito de compreender como organizar melhor a hierarquia de classes e reaproveitar código de forma eficiente.
  */
+
 package principal;
 
 import model.Aluno;
