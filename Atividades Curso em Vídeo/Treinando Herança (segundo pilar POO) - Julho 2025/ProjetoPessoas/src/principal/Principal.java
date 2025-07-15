@@ -1,7 +1,7 @@
 /*
  * Atividade realizada durante o curso de Java POO do Curso em Vídeo.
  * O objetivo desta atividade é introduzir os conceitos sobre HERANÇA abordados
- * nas aulas teóricas sobre Herança - segundo pilar da Programação Orientada a Objetos).
+ * nas aulas teóricas sobre Herança - segundo pilar da Programação Orientada a Objetos.
  *
  * No código principal irei instanciar objetos e determinar suas características para treinar os conceitos.
  *
