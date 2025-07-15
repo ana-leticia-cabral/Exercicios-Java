@@ -1,12 +1,13 @@
 /*
- * Atividade realizada durante o curso de Java POO do Curso em Vídeo.
- * O objetivo desta atividade é introduzir os conceitos sobre POLIMORFISMO abordados
- * nas aulas teóricas sobre Polimorfismo - terceiro pilar da Programação Orientada a Objetos.
+ * Atividade desenvolvida durante o curso de Java POO, do Curso em Vídeo.
  *
- * No código principal irei instanciar objetos e determinar suas características para treinar os conceitos.
+ * O objetivo desta atividade é colocar em prática os conceitos de POLIMORFISMO apresentados nas aulas teóricas,
+ * com foco no polimorfismo por sobreposição (Override), que é um dos pilares fundamentais da Programação Orientada a Objetos.
  *
- * O objetivo é aprender como fazer POLIMORFISMO DE SOBREPOSIÇÃO(Override) em Java.
+ * No código principal, serão instanciados objetos e atribuídas suas características,
+ * a fim de treinar a aplicação correta dos conceitos estudados.
  */
+
 package principal;
 
 import model.Arara;
