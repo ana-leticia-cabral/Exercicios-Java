@@ -1,7 +1,13 @@
 # Exercícios Java
-📚 O objetivo deste repositório é acompanhar meu progresso no aprendizado da linguagem **Java**. 
 
-**Algumas atividades contêm apenas o código-fonte (src/), enquanto outras incluem a estrutura completa do projeto do NetBeans.**
+📚 Este repositório tem como objetivo acompanhar meu progresso no aprendizado da linguagem **Java**, durante os cursos de **Java Básico** e **Java POO**, do Curso em Vídeo.
 
-Cada projeto é uma chance de reforçar o básico, organizar melhor o código e ir além do que aprendi, sempre buscando desafios novos e crescimento real.
+Os exercícios foram realizados entre os meses de **maio** e **julho** de 2025.
+
+**Observação:**  
+Algumas atividades contêm apenas o código-fonte (pasta `src/`), enquanto outras incluem a estrutura completa do projeto gerado pelo **NetBeans**.
+
+
+
+
 
